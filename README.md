@@ -35,7 +35,7 @@
 To run PSSWD-Checker, ensure you have Python installed on your machine. Follow these steps to clone the repository and run the script:
 
 ```bash
-git clone https://github.com/CYBER-4RMY/PSSWD-Checker.git
+git clone https://github.com/0warn/PSSWD-Checker.git
 cd PSSWD-Checker
 python3 setup.py
 ```
